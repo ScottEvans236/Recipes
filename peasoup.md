@@ -4,4 +4,5 @@
 - potato $0.25
 - beer £1000000000.00
 #Instructions
+- boil water
 - put the peas in a pan
